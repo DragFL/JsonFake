@@ -42,7 +42,7 @@
    "Year":1943, 
    "Family":"Messerschmitt", 
    "Faction":"Luftwaffe", 
-   "Engine":"Rolls Royce Merlin 42", 
+   "Engine":"Daimler-Benz DB-605A-1", 
    "Img":"https://wiki.warthunder.com/images/9/9c/GarageImage_Bf_109_G-6.jpg"
    },
    {
@@ -87,7 +87,7 @@
    "Year":1943,
    "Family":"Lightning",
    "Faction":"USAF",
-   "Engine":"Rolls Royce Griffon 48",
+   "Engine":"Allison V-1710-89/91",
    "Img":"https://wiki.warthunder.com/images/b/b7/GarageImage_P-38J-15.jpg"
    }
  ]
